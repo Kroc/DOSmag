@@ -1,3 +1,7 @@
+18-OCT-18:
+* When launching files, remove the console window flash
+* Do not freeze after launching a file (waiting for process to exit)
+
 17-JAN-18:
 * QB64 upgraded to v1.2 -- improved compilation
 * Re-instated blinking effect whilst keeping 30 rows (640x480)

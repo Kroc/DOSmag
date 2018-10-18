@@ -1,5 +1,4 @@
-18-OCT-18:
-* When launching files, remove the console window flash
+19-OCT-18:
 * Do not freeze after launching a file (waiting for process to exit)
 
 17-JAN-18:

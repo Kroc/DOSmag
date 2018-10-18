@@ -442,8 +442,10 @@ DO
                                 'switch to the files directory
                                 DIM cwd$: LET cwd$ = _CWD$
                                 CHDIR "files"
+                                
                                 'execute the shell command
-                                SHELL _HIDE _DONTWAIT param$
+                                SHELL _DONTWAIT param$
+                                
                                 'return to the previous directory
                                 CHDIR cwd$
 
